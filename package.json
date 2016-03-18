@@ -2,22 +2,18 @@
   "name": "atom-monokai-flat",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "This is a modified version of Monokai theme for 'Flat' colors.",
-  "keywords": [
-    "syntax",
-    "theme"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/romainrg/atom-monokai-flat.git"
-  },
+  "private": false,
+  "description": "This is a modified version of Monokai theme with Flat colors.",
+  "repository": "git+https://github.com/romainrg/atom-monokai-flat",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "readme": "",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/romainrg/atom-monokai-flat/issues"
   },
   "homepage": "https://github.com/romainrg/atom-monokai-flat#readme",
+  "dependencies": {}
 }
