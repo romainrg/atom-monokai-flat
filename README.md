@@ -1,5 +1,12 @@
 # atom-monokai-flat theme
 
-A short description of your theme.
+This is a fork of Monokai theme juste modified with "flat" colors
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+## PHP
+![php](https://cloud.githubusercontent.com/assets/14097222/13882352/624604a4-ed25-11e5-86ca-604ee5f96809.JPG)
+
+## JS
+![js](https://cloud.githubusercontent.com/assets/14097222/13882355/650f4d1c-ed25-11e5-874f-5f737f86cd29.JPG)
+
+## CSS
+![css](https://cloud.githubusercontent.com/assets/14097222/13882357/66be494c-ed25-11e5-8b05-dea99365a4d7.JPG)
