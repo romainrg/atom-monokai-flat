@@ -1,7 +1,7 @@
 {
   "name": "atom-monokai-flat",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.1.1",
   "private": false,
   "description": "This is a modified version of Monokai theme with Flat colors.",
   "repository": "git+https://github.com/romainrg/atom-monokai-flat",
